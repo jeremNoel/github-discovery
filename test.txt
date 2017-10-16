@@ -1,2 +1,5 @@
 test de
-contribution sur GtHb
+contribution sur GitHub
+
+Pour moi github est une plateforme permettant de stocker son code et ses différentes réalisations afin de pouvoir les partager avec différents utilisateurs.
+ça permet aussi d'avoir un stockage en remote de nos projets, et avoir un panel nous permettant d'avoir un visuel plus simplifié du projet et des différentes demandes de merges (request) sur nos projets.
